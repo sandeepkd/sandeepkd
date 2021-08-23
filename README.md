@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @sandeepkd(Sandeep Kumar Dan). An Indian Tech Lead, I have 8 years of experience in diffrent web technology stack like MEAN/MERN/LAMP stacks. 
+- 👀 I’m interested in developing npm module for different JS frontend frameworks like Angular and react.
+- 🌱 I’m currently learning google cloud platform.
+- 💞️ I’m looking to collaborate on UI based Angular component development
+- 📫 Reach me through email [sandeepkumardan@gmail.com]
